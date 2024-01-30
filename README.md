@@ -20,7 +20,7 @@ npm i mysql2
 **signup**
 ![signup](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/ec9691ca-76ba-4dc0-bb14-c831b285dcc1)
 
-**back own**
+**back admin**
 ![back own](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/38143b67-31d4-4ac6-a6f6-0974089e43cf)
 
 **add product**
@@ -28,3 +28,18 @@ npm i mysql2
 
 **edit product**
 ![edit product](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/7e002489-7613-4a83-97b0-d3bf73672256)
+
+**front customer**
+![front customer](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/f924ad05-2091-4607-9be4-6be6b3e6c9c1)
+
+<h1>confirm product</h1>
+![confirm product](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/433e0204-338f-48f5-a897-171bac67d269)
+
+
+![confirm product2](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/91a9d389-74a2-4aab-b751-6c05868f2785)
+
+
+![confirm product3](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/83bf0728-78a5-4743-974f-6f0caad5a89e)
+
+
+![dashboard](https://github.com/Rooniaz/Clothing-Nicedream/assets/135500783/981e3f4d-2424-47e9-a187-d639f9e4c89c)
